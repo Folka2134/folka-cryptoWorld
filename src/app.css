@@ -343,6 +343,7 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   margin-top: 40px;
+  font-size: large;
 }
 .show-more {
   margin-top: 0px !important;
