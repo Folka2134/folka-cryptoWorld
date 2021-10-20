@@ -73,6 +73,10 @@ a:hover {
   align-items: center;
 }
 
+.home-title {
+  font-size: 1.5rem !important;
+}
+
 @media screen and (max-width: 1300px) {
   .main {
     margin-left: 50px;
@@ -125,7 +129,7 @@ a:hover {
     right: 0px;
   }
   .home-title {
-    font-size: 1.4rem !important;
+    font-size: 1.5rem !important;
   }
   .show-more {
     font-size: 1.3rem !important;
